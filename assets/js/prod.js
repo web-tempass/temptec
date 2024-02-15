@@ -181,7 +181,7 @@ function addCartAndCheckout($idProduct){
         document.cookie = "listCart=" + JSON.stringify(listCart) + "; expires=Thu, 31 Dec 2025 23:59:59 UTC; path=/;";
         addCartToHTML();
 
-        window.location.href = "/checkout.html";
+        window.location.href = "temptec/checkout.html";
     } else {
         // Se este produto já estiver no carrinho, não aumente a quantidade
         Swal.fire({
