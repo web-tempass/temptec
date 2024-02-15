@@ -3,61 +3,61 @@
         "id": 1,
         "name": "Tmp. Bolsas Femininas",
         "price": 55,
-        "image": "/assets/img/port-img1.jpg"
+        "image": "assets/img/port-img1.jpg"
     },
     {
         "id": 2,
         "name": "Tmp. Loja Eletronicos",
         "price": 320,
-        "image": "/assets/img/port-img1.jpg"
+        "image": "assets/img/port-img1.jpg"
     },
     {
         "id": 3,
         "name": "Tmp. Loja Eletronicos",
         "price": 320,
-        "image": "/assets/img/port-img1.jpg"
+        "image": "assets/img/port-img1.jpg"
     },
     {
         "id": 4,
         "name": "Tmp. Loja Eletronicos",
         "price": 320,
-        "image": "/assets/img/port-img1.jpg"
+        "image": "assets/img/port-img1.jpg"
     },
     {
         "id": 5,
         "name": "Tmp. Loja Eletronicos",
         "price": 320,
-        "image": "/assets/img/port-img1.jpg"
+        "image": "assets/img/port-img1.jpg"
     },
     {
         "id": 6,
         "name": "Tmp. Loja Eletronicos",
         "price": 320,
-        "image": "/assets/img/port-img1.jpg"
+        "image": "assets/img/port-img1.jpg"
     },
     {
         "id": 7,
         "name": "Tmp. Loja Eletronicos",
         "price": 320,
-        "image": "/assets/img/port-img1.jpg"
+        "image": "assets/img/port-img1.jpg"
     },
     {
         "id": 8,
         "name": "Tmp. Loja Eletronicos",
         "price": 320,
-        "image": "/assets/img/port-img1.jpg"
+        "image": "assets/img/port-img1.jpg"
     },
     {
         "id": 9,
         "name": "Tmp. Loja Eletronicos",
         "price": 320,
-        "image": "/assets/img/port-img1.jpg"
+        "image": "assets/img/port-img1.jpg"
     },
     {
         "id": 10,
         "name": "Tmp. Loja Eletronicos",
         "price": 320,
-        "image": "/assets/img/port-img1.jpg"
+        "image": "assets/img/port-img1.jpg"
     }
 
 ]
